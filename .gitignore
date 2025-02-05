@@ -1,0 +1,6 @@
+**/plan.out
+**/.terraform*
+**/backend-config.auto.tfvars
+**/terraform.tfstate*
+**/terraform.tfvars
+!bootstrap/terraform.tfstate*

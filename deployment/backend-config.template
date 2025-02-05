@@ -1,0 +1,5 @@
+subscription_id      = "<azure subscription id - from az account show>"
+resource_group_name  = "tfstate"
+storage_account_name = "<storage account name, output from bootstrapping see readme>"
+container_name       = "tfstate"
+key                  = "terraform.tfstate"
